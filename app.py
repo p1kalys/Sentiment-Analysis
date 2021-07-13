@@ -3,6 +3,7 @@ import joblib
 import pandas as pd
 import numpy as np
 import os
+import nltk
 st.title('Sentiment Analysis')
 model = joblib.load('Sentiment_Analysis')
 import contractions
