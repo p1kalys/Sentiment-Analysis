@@ -1,5 +1,5 @@
 streamlit==0.80.0
 joblib==1.0.1
-scikit_learn==0.24.1
+scikit_learn==0.22.2
 nltk==3.2.5
 contractions==0.0.52
